@@ -1,7 +1,7 @@
 # AI Judge Agent
 
 **Developed by VARMETA**  
-**Client: 0GLAB**
+
 
 ## Project Overview
 
@@ -57,4 +57,3 @@ print("Winner:", winner)
 ## About
 
 - **Developed by:** VARMETA  
-- **Client:** 0GLAB
