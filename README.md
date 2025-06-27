@@ -20,11 +20,13 @@ The AI Judge Agent is an advanced, modular system designed to evaluate and moder
 
 ## Judge Personas
 
-- **Ethical Judge:** Focuses on moral reasoning, fairness, and justice.
-- **Audience Judge:** Evaluates clarity, persuasiveness, and accessibility for general audiences.
-- **Data Judge:** Assesses logical consistency, factual accuracy, and evidence-based arguments.
-- **Creative Judge:** Rewards originality, innovation, and out-of-the-box thinking.
-- **Pragmatic Judge:** Prioritizes feasibility, real-world impact, and operational efficiency.
+
+- <img src="image/seraphina_1750218300.webp" alt="Seraphina " width="60"/> **Seraphina Sera Veritas (Ethical Judge):** Deeply analyzes ethics, fairness, and reasoning, always maintaining objectivity and strong principles.
+- <img src="image/evenlyn_1750218300.webp" alt="Evenlyn" width="60"/> **Evelyn Evie Reed (Audience Judge):** Evaluates clarity, persuasiveness, and accessibility for general audiences, prioritizing clear communication and connection.
+- <img src="image/unit_734_1750218300.webp" alt="Unit 734" width="60"/> **Seven (Data Judge):** Checks logic, factual accuracy, and evidence, strictly objective and unaffected by emotions.
+- <img src="image/spark_1750218300.webp" alt="Spark" width="60"/> **Spark (Creative Judge):** Values creativity, originality, and breakthrough ideas, always encouraging out-of-the-box thinking.
+- <img src="image/elias_1750821275.webp" alt="Elias" width="60"/> **Elias Thorne (Pragmatic Judge):** Focuses on practicality, effectiveness, and real-world applicability, judging based on results and tangible impact.
+
 
 ## How It Works
 
@@ -56,4 +58,4 @@ print("Winner:", winner)
 
 ## About
 
-- **Developed by:** VARMETA  
+- **Developed by:** VARMETA
